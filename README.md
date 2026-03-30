@@ -1,2 +1,0 @@
-# Crowdfunding
-crowdfunding description
